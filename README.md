@@ -1,8 +1,22 @@
 # Item Database Extractor
 
-**GitHub:** [kabzon93region](https://github.com/kabzon93region)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/badge/release-v1.1.0-blue)](https://github.com/kabzon93region/ItemDatabaseExtractor/releases/tag/v1.1.0)
+[![Download zip](https://img.shields.io/badge/download-zip-brightgreen)](https://github.com/kabzon93region/ItemDatabaseExtractor/releases/tag/v1.1.0)
+[![EFT](https://img.shields.io/badge/EFT-16%2E9-orange)](https://www.escapefromtarkov.com/)
+[![SPT](https://img.shields.io/badge/SPT-4.0.13-blue)](https://sp-tarkov.com/)
+[![BepInEx](https://img.shields.io/badge/BepInEx-5%2E4%2Ex-yellow)](https://github.com/BepInEx/BepInEx)
+![Deployment](https://img.shields.io/badge/deployment-client_only-lightgrey)
 
-Клиентский мод для SPT 4: извлекает **все шаблоны предметов** из `ItemFactoryClass.ItemTemplates` с локализованными именами и полями шаблона.
+Клиентский мод для SPT 4: извлекает все шаблоны предметов из `ItemFactoryClass.ItemTemplates` с локализованными именами и полями шаблона.
+
+| | |
+|---|---|
+| **Разработчик** | [kabzon93region](https://github.com/kabzon93region) |
+| **Версия** | 1.1.0 |
+| **GitHub** | [ItemDatabaseExtractor](https://github.com/kabzon93region/ItemDatabaseExtractor) |
+| **Deployment** | `(client_only)` |
+| **Тип** | client |
 
 ## Зачем
 
@@ -45,5 +59,5 @@
 
 ## Поддержать проект
 
-Разовый донат картой РФ, СБП, ЮMoney, VK Pay:  
+Разовый донат картой РФ, СБП, ЮMoney, VK Pay:
 **[DonationAlerts → kabzon93region](https://www.donationalerts.com/r/kabzon93region)**
